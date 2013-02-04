@@ -3,6 +3,6 @@
 using namespace std;
 int main(){
 	string s;
-	s="hgaurav"
+	s = "jkaksa"
 cout<<s<<endl;
 }
