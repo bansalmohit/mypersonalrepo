@@ -4,7 +4,7 @@ using namespace std;
 int main(){
 	string s;
 
-	s="mohijsajt"
+	s="moht"
 
 cout<<s<<endl;
 }
