@@ -5,6 +5,6 @@ int main(){
 	string s;
 
 	s="llliisaaosasaksaksmsakill"
-
+skjakjs
 cout<<s<<endl;
 }
